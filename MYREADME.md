@@ -26,6 +26,6 @@ The application will be available at `http://localhost:5173`
 ![image alt](https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-sheemungai/blob/main/task%20manager%20dark.png?raw=true)
 
 ##light theme
-![image alt](
+![image alt](https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-sheemungai/blob/main/task%20manager%20light.png?raw=true)
 
 
